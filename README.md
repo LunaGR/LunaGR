@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @LunaGR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-
-Hi! Mi nombre es Luna y hace poco inicié un nuevo proyecto laboral.
+Hi! Mi nombre es Luna y hace poco inicié un nuevo proyecto laboral</br>
 Estoy interesada en DBA y el desarrollo de páginas y algunos programas.
 Actualmente estoy aprendiendo JS y  Laravel, además de mejorar el uso de los lenguajes que ya tengo adquirido.
-BUsco poder aprender cada dia un poco más y conseguir pronto mi primera oportunidad trabajando como desarrolladora
+BUsco poder aprender cada dia un poco más y conseguir pronto mi primera oportunidad trabajando como desarrolladora</br>
 Puedes contactarme por Linkedin:  https://www.linkedin.com/in/luna-gallardo-rendon/
 
 <!---
