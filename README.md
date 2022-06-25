@@ -1,10 +1,11 @@
 <h1> Hi! My name is Luna </h1></br>
 
 <p>
-  <h2> About me</h2>
 Well, I´m started programming web pages a year and a half ago and decided to start my new life project.
 I’m studying web application development.</br>
+</p>
 
+<p>
 I´m interested in <b>DBA</b> and the development of pages and some programs.</br>
 I´m currently learning JS and Laravel, as well as improving the use of the languages I have already acquired.
 I want to be able to learn every day a little more and get my first opportunity working as a developer soon.</br>
