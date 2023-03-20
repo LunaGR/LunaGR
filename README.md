@@ -1,16 +1,16 @@
-### Hi there 👋
+### Saludos! 👋Soy Luna
 
 <!--
 **LunaGR/LunaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<b>Bienvenidos a mi perfil.</b>
+
+Soy una entusiasta del frontent iniciando en este mundo y aprendiendo a medida que voy avanzando.
+
+Tengo experiencia en el manejo de wordpress, oracle database,
+
+Y en la actualidad estoy aprendiendo algunos frameworks como laravel y react.
+
+
 -->
