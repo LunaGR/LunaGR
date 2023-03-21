@@ -20,8 +20,8 @@ Y en la actualidad estoy aprendiendo algunos frameworks como laravel y react.
 <a href="https://www.linkedin.com/in/luna-gallardo-rendon/" title="mi perfil linkedin">
 
   <img src="linkedin-logo-3.png"
-    width="120" 
-		height="100">
+    	width="" 
+	height="">
 
 </a>
 
