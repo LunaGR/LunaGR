@@ -12,7 +12,9 @@ Soy una entusiasta del frontent iniciando en este mundo y aprendiendo a medida q
 Tengo experiencia en el manejo de wordpress, oracle database, cloud entre otros.
 
 Y en la actualidad estoy aprendiendo algunos frameworks como laravel y react.
-</p>
+</p> </br>
 
+<h2> Visita mi linkiedin!! </h2>
 
+<img href="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo-3.png">
 
