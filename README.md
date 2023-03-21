@@ -15,7 +15,7 @@ Y en la actualidad estoy aprendiendo algunos frameworks como laravel y react.
 </p> </br>
 
 
-<h2> Visita mi linkiedin!! </h2>
+<h2> Visita mi linkedin!! </h2>
 
 <a href="https://www.linkedin.com/in/luna-gallardo-rendon/" title="mi perfil linkedin">
 
