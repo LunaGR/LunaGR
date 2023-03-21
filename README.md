@@ -21,7 +21,7 @@ Y en la actualidad estoy aprendiendo algunos frameworks como laravel y react.
 
   <img src="linkedin-logo-3.png"
     width="120" 
-		height="75">
+		height="100">
 
 </a>
 
