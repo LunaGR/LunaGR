@@ -25,7 +25,7 @@
 </p></br>
 
 
-  <h2> Visita mi linkedin!! </h2> 
+  <h2> Visita mis otros perfiles </h2> 
 
 <a href="https://www.linkedin.com/in/luna-gallardo-rendon/" title="mi perfil linkedin">
   <center>
