@@ -27,11 +27,12 @@
 
   <h2> Visita mi linkedin!! </h2> 
 
-  <a href="https://www.linkedin.com/in/luna-gallardo-rendon/" title="mi perfil linkedin">
-
-    <img src="linkedin-logo-3.png",
-         width="10%",
-         height="10%">
-  </a>
+<a href="https://www.linkedin.com/in/luna-gallardo-rendon/" title="mi perfil linkedin">
+  <center>
+  <img src="linkedin-logo-3.png"
+       width="10%"
+       height="10%">
+  </center>
+</a>
   
 
