@@ -4,7 +4,7 @@
 **LunaGR/LunaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<b>Bienvenidos a mi perfil.</b>
+<b>Bienvenidos a mi perfil de GitHub.</b>
 
 <h2> Sobre mi </h2>
 <p>
@@ -22,7 +22,7 @@
    Puedes echarle un vistazo a mis proyectos para ver lo que realizo. Cada dia procuro mejorar los antiguos proyectos y crear nuevos para
   aprender a manejarme con los nuevos programas y retarme cada dia a mejorar y aprender.
 
-</p>
+</p></br>
 
 
 <h2> Visita mi linkedin!! </h2> 
