@@ -24,7 +24,6 @@
 
 </p></br>
 
-<center>
 
   <h2> Visita mi linkedin!! </h2> 
 
@@ -35,6 +34,4 @@
          height="10%">
   </a>
   
-</center>
-
 
