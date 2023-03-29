@@ -1,0 +1,32 @@
+#list{
+    margin-top: 80px;
+    padding: 20px;
+    background-color: lightsteelblue;
+}
+h1{
+    padding-left: 60px;
+}
+.edit, .create{
+    display: inline-block;
+    border-radius: 5%;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(8,0,150,1) 0%, rgba(38,97,163,1) 35%, rgba(0,212,255,1) 100%);
+    margin: 20px;
+    padding: 10px;
+}
+
+.img{
+    display: inline-block;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+footer{
+    position: absolute;
+    background: linear-gradient(132deg, rgba(8,0,150,1) 0%, rgba(38,97,163,1) 35%, rgba(0,212,255,1) 100%);
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+    padding: 10px;
+}
