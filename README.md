@@ -36,7 +36,7 @@
 </a></br>
 
 <h2> Wordpress </h2>
-<p> Trabajo realizado en <a href= "www.cloudestudio.es">Cloud Estudio.</a> Edición, actualización y creación de páginas.
+<p> Trabajos realizados en <a href= "https.//www.cloudestudio.es/">Cloud Estudio.</a> Edición, actualización y creación de páginas.
   Haz click <b>aqui</b> para ver lista.
 
   
