@@ -33,6 +33,11 @@
        width="10%"
        height="10%">
   </center>
-</a>
+</a></br>
+
+<h2> Wordpress </h2>
+<p> Trabajo realizado en Cloud Estudio. Edición, actualización y creación de páginas.
+  Haz click <b>aqui</b> para ver lista.
+
   
 
