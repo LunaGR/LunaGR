@@ -25,16 +25,6 @@
 </p></br>
 
 
-  <h2> Visita mis otros perfiles </h2> 
-
-<a href="https://www.linkedin.com/in/luna-gallardo-rendon/" title="mi perfil linkedin">
-  <center>
-  <img src="linkedin-logo-3.png"
-       width="10%"
-       height="10%">
-  </center>
-</a></br>
-
 <h2> Wordpress </h2>
 <p> Trabajos realizados en <a href= "https://www.cloudestudio.es/" title="cloud estudio">Cloud Estudio.</a> Edición, actualización y creación de páginas.
   Haz click <b><a href="/wordpress/wp.html">aqui</a></b> para ver lista.
