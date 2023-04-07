@@ -24,10 +24,10 @@
 
 </p></br>
 
-
+<!--
 <h2> Wordpress </h2>
 <p> Trabajos realizados en <a href= "https://www.cloudestudio.es/" title="cloud estudio">Cloud Estudio.</a> Edición, actualización y creación de páginas.
   Haz click <b><a href="file:///C:/Users/Luna/OneDrive/antiguo/Documents/Paginas/wordpress/wp.html">aqui</a></b> para ver lista.
 
-  
+  -->
 
