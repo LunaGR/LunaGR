@@ -13,7 +13,7 @@
 
   Tengo experiencia en el manejo de wordpress, oracle database, cloud, visual studio code entre otros.
 
-  Actualmente estoy aprendiendo algunos frameworks como laravel y react además de aprender a manejar el tomcat.
+  Actualmente estoy aprendiendo algunos frameworks como laravel y react.
   
 </p> </br>
 
@@ -24,10 +24,4 @@
 
 </p></br>
 
-<!--
-<h2> Wordpress </h2>
-<p> Trabajos realizados en <a href= "https://www.cloudestudio.es/" title="cloud estudio">Cloud Estudio.</a> Edición, actualización y creación de páginas.
-  Haz click <b><a href="file:///C:/Users/Luna/OneDrive/antiguo/Documents/Paginas/wordpress/wp.html">aqui</a></b> para ver lista.
-
-  -->
 
