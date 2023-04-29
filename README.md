@@ -17,6 +17,16 @@
   
 </p> </br>
 
+<h2>Logros</h2>
+<p>
+  Conseguí migrar los datos al access para facilitar las búsquedas de clientes a mis compañeros y tener de esta manera copias de los documentos necesarios.
+  
+  También conseguí encontrar la forma de evitar los duplicados en el crm de SAGE de clientes.
+  
+  La gran mayoria de logros se centran sobre todo en pequeños arreglos en las bbdd para facilitar el trabajo y con las conexiones tanto de red 
+  como de errores y problemas básicos en los software.
+</p>
+
 <h2> Mis trabajos </h2>
 <p>
    Puedes echarle un vistazo a mis proyectos para ver lo que realizo. Cada dia procuro mejorar los antiguos proyectos y crear nuevos para
