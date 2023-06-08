@@ -27,10 +27,9 @@
   como de errores y problemas básicos en los software.
 </p>
 
-<h2> Mis trabajos </h2>
+<h2> Skills </h2>
 <p>
-   Puedes echarle un vistazo a mis proyectos para ver lo que realizo. Cada dia procuro mejorar los antiguos proyectos y crear nuevos para
-  aprender a manejarme con los nuevos programas y retarme cada dia a mejorar y aprender.
+<!-- Aqui va los iconos -->
 
 </p></br>
 
