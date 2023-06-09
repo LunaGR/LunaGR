@@ -28,7 +28,7 @@
 <h2> Skills </h2>
 <p>
 <!-- Aqui va los iconos -->
-<img src="https://www.pngwing.com/es/free-png-psdkh"/>
+<img src="https://www.pngwing.com/es/free-png-psdkh](https://es.wikipedia.org/wiki/HTML5#/media/Archivo:HTML5_logo_and_wordmark.svg)"/>
 
 </p></br>
 
