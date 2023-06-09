@@ -29,7 +29,7 @@
 <p>
 <!-- Aqui va los iconos -->
 <img src="img/html.png" with=100 height=100/>
-<img src="img/CSS3.png" with=100 height=100/>
+<img src="img/css.png" with=100 height=100/>
 <img src="img/java.png"with=100 height=100/>
 <img src="img/js.png" with=100 height=100/>
 <img src="img/php.png" with=100 height=100/>
