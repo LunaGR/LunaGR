@@ -31,10 +31,10 @@
   <h3>Lenguajes</h3>
   <img src="img/html.png" with=100 height=100/>
   <img src="img/css.png" with=100 height=100/>
-  <img src="img/java.png"with=100 height=100/>
   <img src="img/js.png" with=100 height=100/>
   <img src="img/php.png" with=100 height=100/>
   <img src="img/SQL.png" with=100 height=100/>
+  <img src="img/java.png"with=100 height=100/>
 </div></br>
 
 <div>
