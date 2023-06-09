@@ -27,7 +27,7 @@
 
 <h2> Skills </h2>
 
-<div>
+<div class="lang">
   <h3>Lenguajes</h3>
   <center>
     <img src="img/html.png" with=100 height=100/>
@@ -39,19 +39,19 @@
   </center>
 </div></br>
 
-<div>
+<div class="frame">
   <h3>Frameworks</h3>
   <center>
-  <img src="img/bootstrap.png" with=100 height=100/>
-  <img src="img/eclipse.png" with=100 height=100/>
-  <img src="img/jQuery.png" with=100 height=100/>
-  <img src="img/node.png" with=100 height=100/>
-  <img src="img/npm.png" with=100 height=100/>
-  <img src="img/react.png" with=100 height=100/>
-  <img src="img/SQLserver.png" with=100 height=100/>
-  <img src="img/wordpress.png" with=100 height=100/>
-  <img src="img/netcore.png" with=100 height=100/>
-  <img src="img/visualStudio.png" with=100 height=100/>
+    <img src="img/bootstrap.png" with=100 height=100/>
+    <img src="img/eclipse.png" with=100 height=100/>
+    <img src="img/jQuery.png" with=100 height=100/>
+    <img src="img/node.png" with=100 height=100/>
+    <img src="img/npm.png" with=100 height=100/>
+    <img src="img/react.png" with=100 height=100/>
+    <img src="img/SQLserver.png" with=100 height=100/>
+    <img src="img/wordpress.png" with=100 height=100/>
+    <img src="img/netcore.png" with=100 height=100/>
+    <img src="img/visualStudio.png" with=100 height=100/>
   </center>
 </div></br>
 
