@@ -29,10 +29,20 @@
 <p>
 <!-- Aqui va los iconos -->
 <img src="img/html.png" with=100 height=100/>
-<img src="img/CSS3png.png" with=100 height=100/>
+<img src="img/CSS3.png" with=100 height=100/>
 <img src="img/java.png"with=100 height=100/>
 <img src="img/js.png" with=100 height=100/>
 <img src="img/php.png" with=100 height=100/>
+<img src="img/bootstrap.png" with=100 height=100/>
+<img src="img/eclipse.png" with=100 height=100/>
+<img src="img/jQuery.png" with=100 height=100/>
+<img src="img/node.png" with=100 height=100/>
+<img src="img/npm.png" with=100 height=100/>
+<img src="img/react.png" with=100 height=100/>
+<img src="img/SQL.png" with=100 height=100/>
+<img src="img/SQLserver.png" with=100 height=100/>
+<img src="img/wordpress.png" with=100 height=100/>
+<img src="img/netcore.png" with=100 height=100/>
 
 </p></br>
 
