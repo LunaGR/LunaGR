@@ -28,7 +28,7 @@
 <h2> Skills </h2>
 <p>
 <!-- Aqui va los iconos -->
-  <img src="https://www.pngwing.com/es/free-png-psdkh" alt="html" width=300 heigth=300 />
+<img src="https://www.pngwing.com/es/free-png-psdkh"/>
 
 </p></br>
 
