@@ -28,11 +28,11 @@
 <h2> Skills </h2>
 <p>
 <!-- Aqui va los iconos -->
-<img src="img/html.png" with=300 height=300/>
-<img src="img/CSS3png.png"/>
-<img src="img/java.png"/>
-<img src="img/js.png"/>
-<img src="img/php.png"/>
+<img src="img/html.png" with=50 height=50/>
+<img src="img/CSS3png.png" with=50 height=50/>
+<img src="img/java.png" with=50 height=50/>
+<img src="img/js.png" with=50 height=50/>
+<img src="img/php.png" with=50 height=50/>
 
 </p></br>
 
