@@ -27,7 +27,7 @@
 
 <h2> Skills </h2>
 
-<div class="lang">
+<div style="background-color:grey;">
   <h3>Lenguajes</h3>
   <center>
     <img src="img/html.png" with=100 height=100/>
