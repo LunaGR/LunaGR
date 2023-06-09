@@ -4,16 +4,14 @@
 **LunaGR/LunaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<b>Bienvenidos a mi perfil de GitHub.</b>
+<b>Desarrolladora web.</b>
 
 <h2> Sobre mi </h2>
 <p>
   Soy una entusiasta del frontent, sobre todo lo relacionado al diseño de páginas web e interfaces, pero no es en lo único que me especializo.
   El manejo de BBDD y de programar con java son otros de mis lenguajes predilectos.
 
-  Tengo experiencia en el manejo de wordpress, oracle database, cloud, visual studio code entre otros.
-
-  Actualmente estoy aprendiendo algunos frameworks como laravel y react.
+  Mi objetivo es aprender tanto como para ser fullstack y llegar a hacer proyectos y conseguir superar cualquier reto.
   
 </p> </br>
 
@@ -25,11 +23,12 @@
   
   La gran mayoria de logros se centran sobre todo en pequeños arreglos en las bbdd para facilitar el trabajo y con las conexiones tanto de red 
   como de errores y problemas básicos en los software.
-</p>
+</p> </br>
 
 <h2> Skills </h2>
 <p>
 <!-- Aqui va los iconos -->
+  <img src="https://www.pngwing.com/es/free-png-psdkh" alt="html" width=300px heigth=300px/>
 
 </p></br>
 
