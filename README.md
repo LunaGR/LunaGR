@@ -29,16 +29,19 @@
 
 <div>
   <h3>Lenguajes</h3>
-  <img src="img/html.png" with=100 height=100/>
-  <img src="img/css.png" with=100 height=100/>
-  <img src="img/javascript.png" with=100 height=100/>
-  <img src="img/php.png" with=100 height=100/>
-  <img src="img/SQL.png" with=100 height=100/>
-  <img src="img/java.png"with=100 height=100/>
+  <center>
+    <img src="img/html.png" with=100 height=100/>
+    <img src="img/css.png" with=100 height=100/>
+    <img src="img/javascript.png" with=100 height=100/>
+    <img src="img/php.png" with=100 height=100/>
+    <img src="img/SQL.png" with=100 height=100/>
+    <img src="img/java.png"with=100 height=100/>
+  </center>
 </div></br>
 
 <div>
   <h3>Frameworks</h3>
+  <center>
   <img src="img/bootstrap.png" with=100 height=100/>
   <img src="img/eclipse.png" with=100 height=100/>
   <img src="img/jQuery.png" with=100 height=100/>
@@ -48,6 +51,8 @@
   <img src="img/SQLserver.png" with=100 height=100/>
   <img src="img/wordpress.png" with=100 height=100/>
   <img src="img/netcore.png" with=100 height=100/>
+  <img src="img/visualStudio.png" with=100 height=100/>
+  </center>
 </div></br>
 
 
