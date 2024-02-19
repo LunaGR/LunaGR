@@ -4,14 +4,13 @@
 **LunaGR/LunaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<b>Desarrolladora web.</b>
+<b>Junior Developer.</b>
 
 <h2> Sobre mi </h2>
 <p>
-  Soy una entusiasta del frontent, sobre todo lo relacionado al diseño de páginas web e interfaces, pero no es en lo único que me especializo.
-  El manejo de BBDD y de programar con java son otros de mis lenguajes predilectos.
+  Soy una entusiasta del frontent y backend, tengo experiencia trabajando con microservicios e integración de SOAP
+  web service XML, despliegues en jenkins, test unitarios y creación de test.
 
-  Mi objetivo es aprender tanto como para ser fullstack y llegar a hacer proyectos y conseguir superar cualquier reto.
   
 </p> </br>
 
