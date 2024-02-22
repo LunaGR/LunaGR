@@ -51,7 +51,6 @@
     <img src="img/react.png" with=50 height=50/>
     <img src="img/SQLserver.png" with=50 height=50/>
     <img src="img/wordpress.png" with=50 height=50/>
-    <img src="img/visualStudio.png" with=50 height=50/>
   </center>
 </div></br>
 
