@@ -29,19 +29,20 @@
 <div style="background-color:grey;">
   <h3>Lenguajes</h3>
   <center>
-    <img src="img/html.png" with=100 height=100/>
-    <img src="img/css.png" with=100 height=100/>
-    <img src="img/javascript.png" with=100 height=100/>
-    <img src="img/php.png" with=100 height=100/>
-    <img src="img/SQL.png" with=100 height=100/>
-    <img src="img/java.png"with=100 height=100/>
+    <img src="img/html.png" with=50 height=50/>
+    <img src="img/css.png" with=50 height=50/>
+    <img src="img/javascript.png" with=50 height=50/>
+    <img src="img/php.png" with=50 height=50/>
+    <img src="img/SQL.png" with=50 height=50/>
+    <img src="img/java.png"with=50 height=50/>
   </center>
 </div></br>
 
 <div class="frame">
   <h3>Frameworks</h3>
   <center>
-    <img src="img/Spring-boot.png" with=50 height=50/>
+    <img src="img/Spring-Boot.png" with=50 height=50/>
+    <img src="img/jenkins.jpg" with=50 height=50/>
     <img src="img/bootstrap.png" with=50 height=50/>
     <img src="img/eclipse.png" with=50 height=50/>
     <img src="img/jQuery.png" with=50 height=50/>
