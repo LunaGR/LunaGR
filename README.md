@@ -1,10 +1,10 @@
-### Saludos! 👋Soy Luna
+### Saludos! 👋Mi nombre es Luna Gallardo
 
 <!--
 **LunaGR/LunaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<b>Junior Developer.</b>
+<b>Full Stack Junior.</b>
 
 <h2> Sobre mi </h2>
 <p>
@@ -49,7 +49,6 @@
     <img src="img/react.png" with=100 height=100/>
     <img src="img/SQLserver.png" with=100 height=100/>
     <img src="img/wordpress.png" with=100 height=100/>
-    <img src="img/netcore.png" with=100 height=100/>
     <img src="img/visualStudio.png" with=100 height=100/>
   </center>
 </div></br>
