@@ -41,15 +41,16 @@
 <div class="frame">
   <h3>Frameworks</h3>
   <center>
-    <img src="img/bootstrap.png" with=100 height=100/>
-    <img src="img/eclipse.png" with=100 height=100/>
-    <img src="img/jQuery.png" with=100 height=100/>
-    <img src="img/node.png" with=100 height=100/>
-    <img src="img/npm.png" with=100 height=100/>
-    <img src="img/react.png" with=100 height=100/>
-    <img src="img/SQLserver.png" with=100 height=100/>
-    <img src="img/wordpress.png" with=100 height=100/>
-    <img src="img/visualStudio.png" with=100 height=100/>
+    <img src="img/Spring-boot.png" with=50 height=50/>
+    <img src="img/bootstrap.png" with=50 height=50/>
+    <img src="img/eclipse.png" with=50 height=50/>
+    <img src="img/jQuery.png" with=50 height=50/>
+    <img src="img/node.png" with=50 height=50/>
+    <img src="img/npm.png" with=50 height=50/>
+    <img src="img/react.png" with=50 height=50/>
+    <img src="img/SQLserver.png" with=50 height=50/>
+    <img src="img/wordpress.png" with=50 height=50/>
+    <img src="img/visualStudio.png" with=50 height=50/>
   </center>
 </div></br>
 
