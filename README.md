@@ -42,7 +42,7 @@
   <h3>Frameworks</h3>
   <center>
     <img src="img/Spring-Boot.png" with=50 height=50/>
-    <img src="img/jenkins.jpg" with=50 height=50/>
+    <img src="img/jenkins.png" with=50 height=50/>
     <img src="img/bootstrap.png" with=50 height=50/>
     <img src="img/eclipse.png" with=50 height=50/>
     <img src="img/jQuery.png" with=50 height=50/>
